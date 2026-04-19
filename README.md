@@ -1,10 +1,13 @@
 # Home Lab Setup
 
-A documented build of my personal home lab — starting small, building up.
+A documented build of my personal home lab — starting small, and I realize how much I have to learn. 
+I'd like to take my time from here, documenting for myself and others the processes ☺️
 
-## Why I'm doing this
+## Why Am I doing this?
 
-I'm studying cybersecurity and wanted hands-on experience with real tools, not just textbook knowledge. This repo tracks what I set up, how I did it, and what I learned.
+Well, to be as straightforward as possible, I just want to start over, and get a chance to do it right.
+Starting today, and YOU get to be part of my journey (wish I could stop and say hello to each one of you... life and it's restraints hmm?)
+Anyways, I'm studying cybersecurity and wanted hands-on experience with real tools, not just textbook knowledge. This repo tracks what I set up, how I did it, and what I learned.
 
 ## Stack
 
